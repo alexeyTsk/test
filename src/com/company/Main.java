@@ -8,9 +8,12 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("йльпщщфващьщзащовлаьщт");
+
+        Scanner scanner = new Scanner(System.in);
+        int num = scanner.nextInt();
     }
 
-    Scanner scanner = new Scanner(System.in);
-    int num = scanner.nextInt();
+  //  Scanner scanner = new Scanner(System.in)
+    //  int num = scanner.nextInt();
 
 }
